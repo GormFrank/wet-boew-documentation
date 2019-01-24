@@ -14,6 +14,25 @@ modified: 2018-11-30
 
 ## Some existing tools
 
+### BotUI
+
+* Github: [https://github.com/botui](https://github.com/botui)
+* Example: [A JavaScript framework to build UI for your bot](https://botui.org/)
+
+Good starter kit / example to buil a simple, reliable, robust, and nonetheless accessible bot. 
+
+### Quriobot
+
+* Example: [Build your own chatbot](https://quriobot.com/)
+
+Neat design and well built features wise. The possibility to go back in the conversation and the UI feedback on every input keeps the user engaged and supported in their journey.
+
+### Landbot.io
+
+* Example: [Transforms websites into Conversational Experiences](https://landbot.io/)
+
+Pretty straight forward example of what a conversational form is conceptually. Note that there is a possibility to resume a conversation that happened in the past, which is a great feature in theory. In the back-end, a decision tree is defined on a draw board, which makes it easy to build your own conversational form or chat bot.
+
 ### Conversatinal-form
 
 * Github: [https://github.com/space10-community/conversational-form](https://github.com/space10-community/conversational-form)
